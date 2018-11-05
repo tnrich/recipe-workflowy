@@ -1,0 +1,14 @@
+{
+  "id": "workflowy",
+  "name": "workflowy",
+  "version": "1.0.0",
+  "description": "Workflowy",
+  "main": "index.js",
+  "author": "Thomas Rich <trich1230@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://workflowy.com",
+    "hasNotificationSound": false,
+    "hasDirectMessages": false
+  }
+}
